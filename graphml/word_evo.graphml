@@ -1,0 +1,426 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="weight" attr.type="float" />
+  <key id="d1" for="node" attr.name="group" attr.type="string" />
+  <key id="d0" for="node" attr.name="comm_group" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="specialty">
+      <data key="d0">comm8-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="language_model">
+      <data key="d0">comm8-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="bibliometric_index">
+      <data key="d0">comm8-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="scientific_productivity">
+      <data key="d0">comm8-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="gmf">
+      <data key="d0">comm8-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="difference_country">
+      <data key="d0">comm8-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="rejection_rate">
+      <data key="d0">comm8-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="economic_growth">
+      <data key="d0">comm8-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="market">
+      <data key="d0">comm8-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="pubmed_central">
+      <data key="d0">comm8-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="network_analysis">
+      <data key="d0">comm8-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="small_world">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="reference">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="irrigation_system">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="information_seek">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="teach">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="interdisciplinary">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="confirmatory_bias">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="professor">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="knowledge_hub">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="food">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="high_education">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="knowledge_communication">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="institutional_repository">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="australia">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="social_science">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="population">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="television">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="micro_nano_bubble">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="scientific_journal">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="semantic_analysis">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="prior">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="learn">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="mexico">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="gender_difference">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="research_grant">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="open_scholarship">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="economic">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="mind">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="weighted">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="digital_library">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="relation">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="coauthorship">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="google">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="author_keyword">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="europe">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="opinion">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="tribology">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="relevance_assessment">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="entropy">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="social_context">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="data">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="information_use">
+      <data key="d0">comm10-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="size">
+      <data key="d0">comm10-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="synthetic_biology">
+      <data key="d0">comm10-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="usa">
+      <data key="d0">comm10-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="woman">
+      <data key="d0">comm10-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="educational_research">
+      <data key="d0">comm10-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="collaborative_filtering">
+      <data key="d0">comm10-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="heuristic">
+      <data key="d0">comm10-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="investment">
+      <data key="d0">comm10-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="italy">
+      <data key="d0">comm6-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="quality_metric">
+      <data key="d0">comm6-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="museum">
+      <data key="d0">comm6-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="chatbot">
+      <data key="d0">comm6-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="knowledge_creation">
+      <data key="d0">comm6-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="peer_review">
+      <data key="d0">comm6-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="novelty">
+      <data key="d0">comm6-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="mobile_ecosystem">
+      <data key="d0">comm6-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="read">
+      <data key="d0">comm6-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="diabetes">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="benford_law">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="capital">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="neuroscience">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="medicine">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="industry">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="search_trail">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="collection_selection">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="communication">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="author_disambiguation">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="metadata">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="datum_friction">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <edge source="specialty" target="novelty">
+      <data key="d2">0.6078444</data>
+    </edge>
+    <edge source="gmf" target="read">
+      <data key="d2">0.572371</data>
+    </edge>
+    <edge source="small_world" target="heuristic">
+      <data key="d2">0.46370158</data>
+    </edge>
+    <edge source="information_seek" target="italy">
+      <data key="d2">0.55815935</data>
+    </edge>
+    <edge source="teach" target="woman">
+      <data key="d2">0.42348227</data>
+    </edge>
+    <edge source="food" target="chatbot">
+      <data key="d2">0.44681692</data>
+    </edge>
+    <edge source="knowledge_communication" target="quality_metric">
+      <data key="d2">0.46705922</data>
+    </edge>
+    <edge source="knowledge_communication" target="diabetes">
+      <data key="d2">0.51218957</data>
+    </edge>
+    <edge source="knowledge_communication" target="benford_law">
+      <data key="d2">0.42695</data>
+    </edge>
+    <edge source="knowledge_communication" target="capital">
+      <data key="d2">0.44059163</data>
+    </edge>
+    <edge source="knowledge_communication" target="author_disambiguation">
+      <data key="d2">0.5137394</data>
+    </edge>
+    <edge source="institutional_repository" target="datum_friction">
+      <data key="d2">0.43874913</data>
+    </edge>
+    <edge source="scientific_journal" target="synthetic_biology">
+      <data key="d2">0.53712857</data>
+    </edge>
+    <edge source="scientific_journal" target="medicine">
+      <data key="d2">0.48805267</data>
+    </edge>
+    <edge source="semantic_analysis" target="metadata">
+      <data key="d2">0.614962</data>
+    </edge>
+    <edge source="learn" target="information_use">
+      <data key="d2">0.3865566</data>
+    </edge>
+    <edge source="mexico" target="usa">
+      <data key="d2">0.5386536</data>
+    </edge>
+    <edge source="mexico" target="peer_review">
+      <data key="d2">0.55739826</data>
+    </edge>
+    <edge source="gender_difference" target="knowledge_creation">
+      <data key="d2">0.4723737</data>
+    </edge>
+    <edge source="research_grant" target="industry">
+      <data key="d2">0.44042617</data>
+    </edge>
+    <edge source="open_scholarship" target="mobile_ecosystem">
+      <data key="d2">0.5174247</data>
+    </edge>
+    <edge source="mind" target="search_trail">
+      <data key="d2">0.3686122</data>
+    </edge>
+    <edge source="weighted" target="size">
+      <data key="d2">0.49881035</data>
+    </edge>
+    <edge source="weighted" target="museum">
+      <data key="d2">0.47441098</data>
+    </edge>
+    <edge source="weighted" target="neuroscience">
+      <data key="d2">0.603354</data>
+    </edge>
+    <edge source="weighted" target="collection_selection">
+      <data key="d2">0.3695059</data>
+    </edge>
+    <edge source="digital_library" target="educational_research">
+      <data key="d2">0.41697246</data>
+    </edge>
+    <edge source="google" target="collaborative_filtering">
+      <data key="d2">0.4604864</data>
+    </edge>
+    <edge source="relevance_assessment" target="communication">
+      <data key="d2">0.50031</data>
+    </edge>
+    <edge source="data" target="investment">
+      <data key="d2">0.38447088</data>
+    </edge>
+  </graph>
+</graphml>

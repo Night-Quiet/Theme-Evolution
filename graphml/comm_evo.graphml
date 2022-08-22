@@ -1,0 +1,987 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="weight" attr.type="long" />
+  <key id="d1" for="node" attr.name="group" attr.type="string" />
+  <key id="d0" for="node" attr.name="comm_group" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="specialty">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="comm8-6">
+      <data key="d0">comm8-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="language_model">
+      <data key="d0">comm8-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="bibliometric_index">
+      <data key="d0">comm8-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="scientific_productivity">
+      <data key="d0">comm8-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="gmf">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="difference_country">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="rejection_rate">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="economic_growth">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="market">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="pubmed_central">
+      <data key="d0">comm8-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="network_analysis">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="small_world">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="comm1-6">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="reference">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="irrigation_system">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="information_seek">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="teach">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="interdisciplinary">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="confirmatory_bias">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="professor">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="knowledge_hub">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="food">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="high_education">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="knowledge_communication">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="institutional_repository">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="australia">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="social_science">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="population">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="television">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="micro_nano_bubble">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="scientific_journal">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="semantic_analysis">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="prior">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="learn">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="mexico">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="gender_difference">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="research_grant">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="open_scholarship">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="economic">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="mind">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="weighted">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="digital_library">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="relation">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="coauthorship">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="google">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="author_keyword">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="europe">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="opinion">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="tribology">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="relevance_assessment">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="entropy">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="social_context">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="data">
+      <data key="d0">comm1-6</data>
+      <data key="d1">6</data>
+    </node>
+    <node id="mix3-6.5">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="e_commerce">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="subject_classification">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="visibility">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="adjective">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="information_management">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="information_behavior">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="north_america">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="digital_humanity">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="performance_indicator">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="physics">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="knowledge_production">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="intellectual_property">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="assessment">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="neuroscience">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="copyright">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="critique">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="proof">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="diversity">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="prize">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="expectation">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="competition">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="institutions">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="cite_publication">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="ideology">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="sensitivity_analysis">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="refugee">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="collaboration_pattern">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="natural_language_processing">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="co_authorship_network">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="decision_make">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="elis_model">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="question_mark">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="research_policy">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="xml">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="funding_agency">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="intermediary">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="exponential">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="maturity">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="mutual_influence">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="public_health">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="research_hotspot">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="semantic_relationship">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="collaboration_experience">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="validity">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="expert">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="hybrid_approach">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="medical_research">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="hei">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="personal_information">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="understanding">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="scholarship">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="co_citation_analysis">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="social_media">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="citation_base_indicator">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="research_group">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="statistical_analysis">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="journal_impact_factor">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="core">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="acceptance">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="physiology_medicine">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="social_tagging">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="metadata">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="formality">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="ebook">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="iran">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="data_repository">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="information_science_library_science">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="fdh">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="stem">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="reputation">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="barycenter">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="subject_indexing">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="percentile">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="preprint">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="ischool">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="modularity">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="concept_scheme">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="today">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="efficiency">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="migrant">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="behavior">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="coauthor">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="sustainability">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="scopus_database">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="exploitation">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="emerge_topic">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="digitization">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="size">
+      <data key="d0">comm10-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="academic_journal">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="international_collaboration">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="data_management">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="ontology">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="peer_review">
+      <data key="d0">comm6-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="citeulike">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="text_analytic">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="ocr_error">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="personality_trait">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="datum_sharing">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="france">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="susceptibility">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="research_network">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="science_system">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="query_expansion">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="constitutive">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="wikipedia">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="sweden">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="scientific_capital">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="knowledge_flow">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="horizon">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="cardiovascular">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="scoring_rubric">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="representative_work">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="bibliographic_portfolio">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="inter_regional_network">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="everyday_life">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="micro_level">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="similarity_matrix">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="extent">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="search_trail">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="collection_selection">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="tournament">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="event_detection">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="diabetes">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="support_vector_machine">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="ensemble">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="sustainable_development">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="mobile_ecosystem">
+      <data key="d0">comm6-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="quality_metric">
+      <data key="d0">comm6-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="intellectual_contribution">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="patent_value">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="senti_lexicon">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="organization">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="text_genre">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="css">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="investment">
+      <data key="d0">comm10-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="africa">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="e">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="bibliometric_study">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="saudi_dialect">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="gini_coefficient">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="self_archive">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="markov_chain">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="poland">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="controversy">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="self_efficacy">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="number_citation">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="roman_urdu">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="knowledge_creation">
+      <data key="d0">comm6-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="research_gap">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="lean_healthcare">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="scale_invariant">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="citation_practice">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="knowledge_base">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="industry">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="em_index">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="citation_advantage">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="path_dependent">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="knowledge_network">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="datum_use">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="theoretical_framework">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="hashtag">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="n_gram">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="delay">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="p">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="management">
+      <data key="d0">mix3-6.5</data>
+      <data key="d1">6.5</data>
+    </node>
+    <node id="information_use">
+      <data key="d0">comm10-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="comm10-7">
+      <data key="d0">comm10-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="synthetic_biology">
+      <data key="d0">comm10-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="usa">
+      <data key="d0">comm10-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="woman">
+      <data key="d0">comm10-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="educational_research">
+      <data key="d0">comm10-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="collaborative_filtering">
+      <data key="d0">comm10-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="heuristic">
+      <data key="d0">comm10-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="italy">
+      <data key="d0">comm6-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="comm6-7">
+      <data key="d0">comm6-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="museum">
+      <data key="d0">comm6-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="chatbot">
+      <data key="d0">comm6-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="novelty">
+      <data key="d0">comm6-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="read">
+      <data key="d0">comm6-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="comm4-7">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="benford_law">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="capital">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="medicine">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="communication">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="author_disambiguation">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <node id="datum_friction">
+      <data key="d0">comm4-7</data>
+      <data key="d1">7</data>
+    </node>
+    <edge source="comm8-6" target="mix3-6.5">
+      <data key="d2">7</data>
+    </edge>
+    <edge source="comm1-6" target="mix3-6.5">
+      <data key="d2">11</data>
+    </edge>
+    <edge source="mix3-6.5" target="comm10-7">
+      <data key="d2">2</data>
+    </edge>
+    <edge source="mix3-6.5" target="comm6-7">
+      <data key="d2">4</data>
+    </edge>
+    <edge source="mix3-6.5" target="comm4-7">
+      <data key="d2">6</data>
+    </edge>
+  </graph>
+</graphml>
