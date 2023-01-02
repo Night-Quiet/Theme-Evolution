@@ -23,7 +23,5 @@
 
 ## 截图
 
-##### 矢量图, 可能加载不出来, 直接下载就好, 图演示的是2010-2021年信息领域的研究方向或者说主题的演变过程
-
-![算法流程图](https://github.com/Night-Quiet/Theme-Evolution/blob/main/%E6%97%B6%E9%97%B4%E5%85%B3%E9%94%AE%E8%AF%8D%E5%8D%95%E8%AF%8D%E6%BC%94%E7%BB%8E%E5%9B%BE.jpg)
+![算法流程图](https://github.com/Night-Quiet/Theme-Evolution/blob/main/1%20%E6%95%B4%E4%BD%93%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)
 
